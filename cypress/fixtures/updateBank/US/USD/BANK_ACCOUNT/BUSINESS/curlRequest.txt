@@ -1,0 +1,7 @@
+curl -X "PUT" "https://api.sandbox.hyperwallet.com/rest/v3/users/usr-c4292f1a-866f-4310-a289-b916853939de/bank-accounts/trm-56b976c5-26b2-42fa-87cf-14b3366673c6" \
+-u testuser@12345678:myAccPassw0rd \
+-H "Content-Type: application/json" \
+-H "Accept: application/json"  \
+-d "{
+  "bankAccountId": "7861012345"
+}"

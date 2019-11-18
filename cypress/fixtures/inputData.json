@@ -1,0 +1,16 @@
+{
+  "US-USD-BANK-BUSINESS": {
+    "countryName": "United States",
+    "transferMethodCountry": "US",
+    "transferMethodCurrency": "USD",
+    "profileType": "Business",
+    "type": "BANK_ACCOUNT"
+  },
+  "US-USD-BANK-INDIVIDUAL": {
+    "countryName": "United States",
+    "transferMethodCountry": "US",
+    "transferMethodCurrency": "USD",
+    "profileType": "Individual",
+    "type": "BANK_ACCOUNT"
+  }
+}

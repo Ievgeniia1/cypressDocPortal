@@ -1,0 +1,5 @@
+api = hyperwallet.Api("testuser@12345678", "myAccPassw0rd", "prg-12345");
+data = {
+  "bankAccountId": "7861012345"
+};
+response = api.updateBankAccount("usr-c4292f1a-866f-4310-a289-b916853939de", "trm-56b976c5-26b2-42fa-87cf-14b3366673c6", data);

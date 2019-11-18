@@ -1,0 +1,5 @@
+$hyperwallet = new Hyperwallet("testuser@12345678", "myAccPassw0rd");
+
+$response = $hyperwallet->updateBankAccount("usr-c4292f1a-866f-4310-a289-b916853939de", (new \Hyperwallet\Model\BankAccount(array('token' => 'trm-56b976c5-26b2-42fa-87cf-14b3366673c6')))
+  ->setBankAccountId("7861012345")
+);

@@ -1,0 +1,22 @@
+  "profileType": "INDIVIDUAL",
+  "transferMethodCountry": "US",
+  "transferMethodCurrency": "USD",
+  "type": "BANK_ACCOUNT",
+  "branchId": "101089292",
+  "bankAccountId": "7861012345",
+  "bankAccountPurpose": "SAVINGS",
+  "businessName": "Company ABC",
+  "country": "US",
+  "stateProvince": "WA",
+  "addressLine1": "123 Main Street",
+  "city": "Hometown",
+  "postalCode": "12345",
+  "links": [
+    {
+      "params": {
+        "rel": "own_company"
+      },
+      "href": "https://api.sandbox.hyperwallet.com/rest/v3/users/usr-c4292f1a-866f-4310-a289-b916853939de/bank-accounts/trm-56b976c5-26b2-42fa-87cf-14b3366673c6"
+    }
+  ]
+}
